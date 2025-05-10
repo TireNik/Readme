@@ -42,21 +42,10 @@
 
 ---
 
-### 📊 GitHub Статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sviridovnikita&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sviridovnikita&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sviridovnikita&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Как связаться со мной
 
-- Email: sviridovnikita@example.com  
-- Telegram: [@nikita_sviridov](https://t.me/nikita_sviridov)  
-- LinkedIn: [linkedin.com/in/nikita-sviridov](https://linkedin.com/in/nikita-sviridov)
+- Email: ya@nsviridov.ru 
+- Telegram: @Lakislol  
 
 ---
 
