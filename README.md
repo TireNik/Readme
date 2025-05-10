@@ -14,7 +14,7 @@
 ### 🏆 GitHub достижения
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sviridovnikita&theme=gruvbox&row=1&column=6" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sviridovnikita&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 </p>
 
 ---
