@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sviridovnikita&style=flat-square&color=brightgreen" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sviridovnikita?label=Подписчики&style=flat-square" alt="GitHub followers" />
 </p>
 
 ---
