@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Никита 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B97E&center=true&vCenter=true&width=435&lines=Java+Developer;Spring+Boot+%7C+PostgreSQL+%7C+Kafka+%7C+Docker;Люблю+чистую+архитектуру+и+ясный+код" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00B97E&center=true&vCenter=true&width=435&lines=Java+Developer;Spring+Boot+%7C+PostgreSQL+%7C+Kafka+%7C+Docker;" alt="Typing SVG" />
 </p>
 
 <p align="center">
