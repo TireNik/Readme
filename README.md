@@ -10,13 +10,6 @@
 
 ---
 
-### 🏆 GitHub достижения
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sviridovnikita&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🚀 Обо мне
 
